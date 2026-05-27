@@ -18,7 +18,7 @@ export default function DuaCard({ dua }: DuaCardProps) {
       </div>
       <h2 className="mt-3 text-2xl font-semibold text-[#1f2a24]">{dua.title}</h2>
       <ArabicText text={dua.arabic} className="mt-4 text-3xl" />
-      <p className="mt-4 text-sm text-[#5f6b62]">{dua.source}</p>
+      <p className="mt-4 text-sm text-[#5f6b62]">{dua.sources[0]?.ref}</p>
     </Link>
   );
 }
