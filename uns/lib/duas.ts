@@ -17,60 +17,63 @@ export type Dua = {
 export const duas: Dua[] = [
   {
     slug: "dua-of-yunus",
-    title: "The Dua of Yunus",
+    title: "Dua of Yunus – The Light in the Depths",
     arabic:
-      "لَا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+      "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
     transliteration:
-      "La ilaha illa anta, subhanaka, inni kuntu minaz-zalimin.",
+      "La ilaha illa anta subhanaka inni kuntu minaz-zalimin",
     translation:
-      "There is no deity except You. Glory be to You. Indeed, I was among the wrongdoers.",
-    theme: "Hardship & Repentance",
-    category: "Hardship",
-    source: "Qur'an 21:87",
-    authenticity: "Qur'anic",
+      "There is no deity except You. Exalted are You. Indeed, I have been of the wrongdoers.",
+    theme: "Distress & Repentance",
+    category: "Distress & Repentance",
+    source: "Qur'an 21:87 · Tirmidhi (Hasan)",
+    authenticity: "Qur'anic — confirmed in Hadith (Tirmidhi, classed Hasan)",
     story:
-      "Prophet Yunus (peace be upon him) made this supplication in deep distress, turning fully to Allah with humility and confession.",
+      "In the crushing darkness of the whale's belly, surrounded by darkness upon darkness, Prophet Yunus (عليه السلام) realized the weight of his mistake. He had left his people in frustration, yet in that most hopeless place, he turned to Allah with pure repentance. No long complaints. No excuses. Only recognition of Allah's oneness and his own fault. In that instant, the supplication pierced through the ocean, and Allah commanded the whale to release him onto the shore. A single heartfelt dua rescued him from the abyss.",
     reflection:
-      "Relief often begins with honesty before Allah: recognizing His perfection and our own need for mercy.",
+      "This dua teaches us that no darkness is too deep for Allah's mercy. Even when we have wronged ourselves, even when we feel trapped by our own choices, the path back is always open. It is the dua of tawbah in its purest form: affirming Allah's perfection while humbly admitting our imperfection. The heart that says this with sincerity finds its own whale open and light breaking through.",
     recitationGuidance:
-      "Recite slowly in moments of anxiety, especially when you feel trapped by circumstances. Repeat with presence and repentance.",
+      "Recite with full presence during moments of overwhelming distress, anxiety, or when you feel you have let yourself and Allah down. Especially powerful in the last third of the night or when alone. Say it slowly, feeling every word. The Prophet ﷺ said: \"No Muslim invokes it for anything except that Allah will answer him.\" Allah responds to the call of the distressed.",
     relatedSlugs: ["dua-of-ayyub", "astaghfirullah"],
   },
   {
     slug: "dua-of-ayyub",
-    title: "The Dua of Ayyub",
-    arabic: "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
-    transliteration: "Anni massaniya ad-durru wa anta arhamur-rahimin.",
+    title: "Dua of Ayyub – Patience in Suffering",
+    arabic:
+      "رَبِّ إِنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+    transliteration:
+      "Rabbi inni massaniyad-durru wa anta arhamur-rahimin",
     translation:
-      "Indeed, adversity has touched me, and You are the Most Merciful of the merciful.",
-    theme: "Patience in Illness",
-    category: "Hardship",
+      "My Lord, indeed adversity has touched me, and You are the Most Merciful of the merciful.",
+    theme: "Illness & Prolonged Hardship",
+    category: "Illness & Prolonged Hardship",
     source: "Qur'an 21:83",
     authenticity: "Qur'anic",
     story:
-      "Prophet Ayyub (peace be upon him) endured prolonged trial with patience, calling only upon Allah's mercy.",
+      "Prophet Ayyub (عليه السلام) was tested with the loss of wealth, children, and health. His body was afflicted with severe illness for years. Friends and family turned away. Yet through it all, he remained patient and grateful. In his deepest pain, he raised his hands and spoke these words — not with despair, but with beautiful adab toward his Lord. He did not demand relief. He simply named his pain and reminded himself of who Allah is: the Most Merciful of the merciful. And Allah answered, restoring him and increasing him in every way.",
     reflection:
-      "This dua teaches dignified vulnerability: naming pain while trusting divine mercy.",
+      "This dua teaches the deepest form of sabr: turning to Allah in raw vulnerability while still acknowledging His mercy. It models a heart that does not become bitter in hardship, but remains anchored in the certainty that Allah's mercy is greater than any affliction. When illness or grief strips everything away, this is what the servant says — not a complaint, but a confession of need wrapped in trust.",
     recitationGuidance:
-      "Recite in times of sickness, grief, or exhaustion. Keep your heart focused on mercy, not only the difficulty.",
+      "Recite during prolonged illness, grief, exhaustion, or when you feel abandoned by the world. Let your voice carry the weight of honesty before Allah. Do not rush it. The adab of Ayyub was not resignation — it was dignified, trusting surrender. Return to it as often as your heart needs.",
     relatedSlugs: ["dua-of-yunus", "hasbunallahu-wa-nimal-wakeel"],
   },
   {
     slug: "hasbunallahu-wa-nimal-wakeel",
-    title: "Hasbunallahu wa Ni'mal Wakeel",
+    title: "Hasbunallahu wa Ni\u2019mal Wakeel – The Ultimate Reliance",
     arabic: "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
-    transliteration: "Hasbunallahu wa ni'mal wakeel.",
-    translation: "Allah is sufficient for us, and He is the best Disposer of affairs.",
-    theme: "Trust Under Pressure",
-    category: "Protection",
-    source: "Qur'an 3:173",
-    authenticity: "Qur'anic",
+    transliteration: "Hasbunallahu wa ni'mal wakeel",
+    translation:
+      "Allah is sufficient for us, and He is the best Disposer of affairs.",
+    theme: "Tawakkul & Protection",
+    category: "Tawakkul & Protection",
+    source: "Qur'an 3:173 · Sahih al-Bukhari",
+    authenticity: "Qur'anic — confirmed in Sahih al-Bukhari",
     story:
-      "Believers said these words when threatened, placing their affairs in Allah's care instead of fear.",
+      "These words were spoken in one of the most terrifying moments recorded in Islamic history. After the Battle of Uhud, the believers were battered and bleeding. People came to them warning: a massive army has gathered against you, fear them. Rather than retreat or despair, the companions replied with these words and moved forward with trust in Allah alone. Their faith turned what should have been their destruction into a statement of divine reliance that echoes through every generation. It is also the dua of Ibrahim (عليه السلام) as he was thrown into Nimrod's fire — and from that fire, Allah made coolness and safety.",
     reflection:
-      "Tawakkul is not passivity; it is confident reliance while doing what is right.",
+      "Hasbunallah is not passivity. It is the most active statement a believer can make: I have done what I can, and now I place the outcome entirely in the hands of the One who controls all outcomes. It dissolves the tyranny of fear. When you feel overwhelmed by people, circumstances, or the unknown — this phrase restores the heart to its rightful orientation. Allah is not just \u2018enough\u2019 in a minimal sense. He is fully, completely, abundantly sufficient.",
     recitationGuidance:
-      "Repeat when facing uncertainty, decisions, or fear of people. Recite with deliberate trust.",
+      "Repeat in moments of fear, when facing powerful people or impossible situations, before major decisions, and whenever anxiety tightens the chest. The Prophet ﷺ recited it in moments of great difficulty. Say it with conviction, not just words. Let it shift your inner state from worry to wukūl — full delegation to Allah.",
     relatedSlugs: ["wa-ufawwidu-amri-ilallah", "la-hawla-wa-la-quwwata-illa-billah"],
   },
   {
